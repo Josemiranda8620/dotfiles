@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = josemiranda8620@hotmail.com
+	name = Jose Miranda
